@@ -8,8 +8,9 @@ The workflow eliminates manual processing and showcases workflow automation, API
 
 ---
 
-## Workflow
+## Workflow Diagram
 
+![Workflow](screenshots/workflow.jpeg)
 1. User submits a Google Form.
 2. n8n detects the new submission.
 3. Data is appended to a Google Sheet.
